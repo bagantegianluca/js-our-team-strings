@@ -9,3 +9,7 @@
 .col-cs {
     width: calc(100% / 4);
 }
+
+.card-highlight {
+    background: yellow;
+}
